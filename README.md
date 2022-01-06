@@ -44,9 +44,9 @@ Desarrollar y garantizar el cumplimiento del proyecto, empleando la metodología
   * Reporte final del proyecto con las tareas ejecutadas durante el proyecto, tiempos, progreso y responsables.
   * Elaboración de un análisis post-mortem con los elementos que salieron bien en el proyecto y las oportunidades de mejora.
 
-[Requerimientos 📑](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) -  Aquí puedes encontrar todos los requerimientos del proyecto.
+[Requerimientos 📑](https://github.com/EliasBautista/ProjectManagment_Emtech/tree/main/Proyecto_Construccion_Estadio/Requerimientos) -  Aquí puedes encontrar todos los requerimientos del proyecto.
 
-[Reporte Final 📑](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) - Aquí se puede consultar y descargar de forma detallada como se abordo el proyecto.
+[Reporte Final 📑](https://github.com/EliasBautista/ProjectManagment_Emtech/blob/main/Proyecto_Construccion_Estadio/Soluci%C3%B3n/Portafolio_EstadioUni.pdf) - Aquí se puede consultar y descargar de forma detallada como se abordo el proyecto.
 
 <br/>
 <hr/>
@@ -71,9 +71,9 @@ Desarrollar y garantizar el cumplimiento del proyecto, empleando la metodología
 * Sugerencias al cliente para maximizar el valor de la aplicación.
 * Retrospectiva de cada sprint y del proyecto.
 
-[Requerimientos 📋](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) -  Aquí puedes encontrar todos los requerimientos del proyecto.
+[Requerimientos 📋](https://github.com/EliasBautista/ProjectManagment_Emtech/tree/main/Proyecto_DesarrolloApp/Requerimientos) -  Aquí puedes encontrar todos los requerimientos del proyecto.
 
-[Reporte Final 📑](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) - Aquí se puede consultar y descargar de forma detallada como se abordo el proyecto.
+[Reporte Final 📑](https://github.com/EliasBautista/ProjectManagment_Emtech/blob/main/Proyecto_DesarrolloApp/Soluci%C3%B3n/Portafolio_CuidaPlus.pdf) - Aquí se puede consultar y descargar de forma detallada como se abordo el proyecto.
 
 <br/>
 <hr/>
@@ -108,11 +108,11 @@ Puntos claves:
 * Riesgos del establecimiento y mantenimiento de la PMO.
 * Gestión del cambio.
 
-[Antecedentes 📚](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) -  Aquí puedes encontrar de forma más detallada el contexto y el marco teoríco del proyecto.
+[Antecedentes 📚](https://github.com/EliasBautista/ProjectManagment_Emtech/tree/main/PMO_TransformacionDigital/Contexto) -  Aquí puedes encontrar de forma más detallada el contexto y el marco teoríco del proyecto.
 
-[Requerimientos 📋](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) -  Aquí puedes encontrar todos los requerimientos del proyecto.
+[Requerimientos 📋](https://github.com/EliasBautista/ProjectManagment_Emtech/tree/main/PMO_TransformacionDigital/Requerimientos) -  Aquí puedes encontrar todos los requerimientos del proyecto.
 
-[Reporte Final 📑](https://github.com/EliasBautista/Curso_Emtech/blob/master/Soluciones/REPORTE-01-BAUTISTAFLORES-HUGOELIAS.pdf) - Aquí se puede consultar y descargar de forma detallada como se abordo el proyecto.
+[Reporte Final 📑](https://github.com/EliasBautista/ProjectManagment_Emtech/blob/main/PMO_TransformacionDigital/Soluci%C3%B3n/PortafolioPMO_HugoElias_BautistaFlores.pdf) - Aquí se puede consultar y descargar de forma detallada como se abordo el proyecto.
 
 <br/>
 <hr/>
